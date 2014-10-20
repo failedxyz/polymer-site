@@ -1,0 +1,20 @@
+{
+  "name": "polymer-site",
+  "version": "0.0.0",
+  "homepage": "https://github.com/failedxyz/polymer-site",
+  "authors": [
+    "Michael Zhang <failed.down@gmail.com>"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
